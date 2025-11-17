@@ -88,7 +88,7 @@ cards.forEach(card => {
 });
 
 const typingElement = document.querySelector('.info-home h3'); 
-const words = ["Information Systems Student"];
+const words = ["AI Enthusiast", "Front-End Developer", "Web Developer", "Data Analyst"];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
